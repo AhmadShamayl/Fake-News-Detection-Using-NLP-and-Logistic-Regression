@@ -40,13 +40,11 @@ The repository is organized as follows:
 
 
 fake-news-detection/
-│
-├── data/
-│   └── train.csv          # Training dataset
-│
-├── Fake News Colab.ipynb  # Jupyter notebook with the project code
-├── requirements.txt       # List of required Python packages
-└── README.md              # Project README file
+data/
+train.csv          # Training dataset
+Fake News Colab.ipynb  # Jupyter notebook with the project code
+requirements.txt       # List of required Python packages
+README.md              # Project README file
 Results
 The results of the fake news detection model will be displayed in the notebook, including accuracy scores and other evaluation metrics.
 
