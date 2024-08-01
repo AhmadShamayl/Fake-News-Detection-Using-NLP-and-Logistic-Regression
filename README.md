@@ -9,7 +9,7 @@ Usage
 Project Structure
 Results
 Contributing
-License
+
 Overview
 The Fake News Detection project aims to develop a machine learning model to classify news articles as real or fake. By leveraging natural language processing (NLP) techniques and machine learning algorithms, we can analyze the content of news articles and determine their authenticity.
 
