@@ -50,3 +50,5 @@ The results of the fake news detection model will be displayed in the notebook, 
 
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+NO
+
